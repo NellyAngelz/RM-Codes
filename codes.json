@@ -4,14 +4,14 @@
   "Rewards":{
     "Gems":750,
     "Coins":1500,
-    "Potions":{"UltraLucky"},
+    "Potions":{"UltraLucky"}
   },
 {
   "MINIONS":{
   "ExpireDate":{"year":2030,"day":8,"month":5},
   "Rewards":{
     "Gems":1000,
-    "Potions":{"UltraLucky"},
+    "Potions":{"UltraLucky"}
   },
 {
   "TUNGTUNGTUNG":{
@@ -26,7 +26,7 @@
   "Rewards":{
     "Gems":1250,
     "Coins":2500,
-    "Potions":{"UltraLucky", "CRISIS"},
+    "Potions":{"UltraLucky", "CRISIS"}
   },
 {
   "ZAPNZING":{
@@ -34,6 +34,6 @@
   "Rewards":{
     "Gems":1500,
     "Coins":3000,
-    "Potions": {"CRISIS", "CRISIS", "CRISIS"},
+    "Potions": {"CRISIS", "CRISIS", "CRISIS"}
   },
 }
