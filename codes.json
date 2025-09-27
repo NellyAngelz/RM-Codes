@@ -14,6 +14,13 @@
       "Potions": ["UltraLucky"]
     }
   },
+  "FOLLOWKEK": {
+    "ExpireDate": {"year": 2030, "day": 8, "month": 5},
+    "Rewards": {
+      "Gems": 2000,
+      "Potions": ["CRISIS"]
+    }
+  },
   "TUNGTUNGTUNG": {
     "ExpireDate": {"year": 2030, "day": 8, "month": 5},
     "Rewards": {
